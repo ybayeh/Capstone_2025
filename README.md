@@ -12,7 +12,7 @@ Therefore, the objective of this analysis was to examine the trend of electronic
 * What is the race composition of offenders and victims?
 * Is there any death incident?
 
-The Power Bi dashboard report provides the information generated during the analysis that invetsigates the questions lised above. The data used for this project was obtained from the United States government's open data site, Data.gov. It was collected and provided to the site by the City of New Orleans Police department.
+The Power Bi dashboard report provides the information generated during the analysis that invetsigates the questions listed above. The data used for this project was obtained from the United States government's open data site, Data.gov. It was collected and provided to the site by the City of New Orleans Police department.
 
 **Technologies Used**
 
@@ -24,7 +24,7 @@ A CSV data file was obtained from the government's open data source. The 2022 an
 
 **Problems and Challenges**
 
-The first challenge was related to finding the appropriate data that could help meet the intended objective of the project. Ater going through several online sources, I was able to find the one that I was looking for in the government's open data source. The second and more challenging and time consuming problem was related to the cleaning and organizing data. The way some of the fields and data values presneted in the data set were formatted was not consistent. 
+The first challenge was related to finding the appropriate data that could help meet the intended objective of the project. Ater going through several online sources, I was able to find the one that I was looking for in the government's open data source. The second and more challenging and time consuming problem was related to cleaning and organizing data. The way some of the fields and data values presneted in the dataset were formatted was not consistent. 
 
 **Link to The Dashboard**
 
